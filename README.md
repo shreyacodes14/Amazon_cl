@@ -1,1 +1,1 @@
-# Amazon_cl
+This project is a clone of the Amazon website created using HTML and CSS. It replicates the layout and design of Amazon’s homepage, showcasing skills in frontend development, responsive design, and UI styling.
